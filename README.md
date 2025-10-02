@@ -1,9 +1,9 @@
+<!-- 🌸 Capsule Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
 
 <br>
 
 <div align="center">
-  
   <b>`プログラマ`</b>
   <samp>
       <br>
@@ -20,16 +20,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/kitsune_♡-black" />
 </div>
-      
-<br>
-<br>
-      
+
+<br><br>
+
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=lu-chie&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-chie&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
-  <br>
-  <br>
-  <img align="center" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lu-chie&theme=omni"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=LuluKitsune&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluKitsune&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <br><br>
+  <img align="center" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuluKitsune&theme=omni"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -48,8 +46,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
-<br>
-<br>
+<br><br>
 
 <details align="center">  
   <summary>
@@ -66,8 +63,7 @@
       Contact me:
     </b>
   </samp>
-  <br>
-  <br>
+  <br><br>
 
   [![Itch.io](https://img.shields.io/badge/Itch.io-6e3a5d?style=for-the-badge&logo=itchdotio&logoColor=fff)](https://luchie.itch.io/)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/arrayofloot/)
@@ -87,8 +83,8 @@
       </samp>
   </p>
 </div>
-<br>
 
+<br>
 </details>
 
 ##
@@ -102,4 +98,5 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+<!-- 🌸 Capsule Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
